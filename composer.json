@@ -2,6 +2,7 @@
     "name": "saedyousef/supreme-object",
     "description": "Supreme Object!",
     "license": "MIT",
+    "keywords": ["PHP", "Data Object", "Data Transfer Object"],
     "autoload": {
         "psr-4": {
             "Saedyousef\\SupremeObject\\": "src/"
